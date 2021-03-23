@@ -1,8 +1,8 @@
 <channels></channels>
 <channel>
 <name>[COLOR white][B] FILMES NO G DRIVE[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/VjFtcfW/servidorgdrive-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/B2WH0J8/Filmes-Gdrive.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES NO SERVIDOR G DRIVE ESTÃO AQUI</info>
 <genre>FILMES</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -11,32 +11,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[COLOR orange][B] FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/fCD7VFB/acao.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE FILMES DE AÇÃO ESTÃO AQUI</info>
 <genre>AÇÃO</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange]LS-> ESTRADA PARA PERDIÇÃO - 2002 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CvwM9oPszr0V7dLHk2VCKcA03I.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/yH7mQtNIoeryZqL5VMHdIaBMKpo.jpg</fanart>
+<title>[COLOR orange] Estrada Para Perdição - 2002 - 720 - Dublado[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bduxZ5FUS7C_CYa-4lkG2ctSx5JLnFMr/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CvwM9oPszr0V7dLHk2VCKcA03I.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MZt-Zf3FCE8/maxresdefault.jpg</fanart>
 <info>Ele não deveria estar lá. Mas no momento em que Michael Sullivan Jr. presencia um brutal assassinato, as vidas desse menino de 12 anos e do gangster que é seu pai são destruídas para sempre e seus destinos unidos para sempre. Agora, perseguido pela Máfia a quem devotou sua vida, Sullivan e seu filho não têm para onde fugir ou como escapar à perseguição incansável de um sádico assassino. É nessa luta feroz e instintiva pela sobrevivência e para proteger seu filho, que este gangster profissional irá descobrir a honra e a redenção.</info>
 <genre>AÇÃO</genre>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> US MARSHALS - OS FEDERAIS - 1998 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uixF2pHa0whTKcYmenDrArX0II.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jjpdhJw0YlfO1UeM4JCfpoJF2hN.jpg</fanart>
+<title>[COLOR orange] U.S. Marshals - Os Federais - 1998 - 1080 - Dublado[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iWLB_EdmtUCrS02HyvO940OK94Oacvk5/view</link>
+<thumbnail>https://cineclick-static.flixmedia.cloud/1080/69/1080x1620_1585948531.jpg</thumbnail>
+<fanart>https://entreterse.s3.amazonaws.com/wp-content/uploads/2020/10/U.S.-Marshals-Os-Federais.jpg</fanart>
 <info>A polícia de Chicago, ao investigar um acidente, descobre que as impressões digitais do ferido conferem com as impressões digitais de um suspeito por duplo assassinato. Assim Mark Sheridan, o acidentado, é preso ainda no hospital. Sua remoção para Nova York, local onde ele cometeu crimes, é providenciada. Mas durante o voo (no qual há outros detentos) uma tentativa de fuga provoca a queda do avião, num acidente que matou e feriu diversos civis. Sheridan consegue fugir. Samuel Gerard, um experiente agente, fica encarregado de recapturá-lo, mas em pouco tempo fica claro que o fugitivo não um mero assassino e que uma intricada trama se esconde atrás da "versão oficial".</info>
 <genre>AÇÃO</genre>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ANNA-O PERIGO TEM NOME - 2019 - 720  - DUB[/COLOR]</title>
+<title>[COLOR orange] Anna – O Perigo Tem Nome - 2019 - 720  - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sEZnAqV6ILhz8GSDewgpOymQNPO.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12utOmjQ_WfW6QByC4_8FDGEoi-i0ugvz/view</link>
@@ -45,7 +45,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> CÓDIGO PARA O INFERNO - 1998 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Código Para o Inferno - 1998 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZxPAyNJD5ZJzJ587ol3c0mbZp3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xVgfale3aSMx3NofZyJ1yAHHwv5.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12NlnAuQyzlDSIJHMdZJwjxjIir6bSj4l/view</link>
@@ -54,7 +54,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ASSASINO A PREÇO FIXO - 1972 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Assassino a Preço Fixo - 1972 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pI8PJMrvwBvG5t7kAhoinz9Kdld.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ueasqhY0GZgfJ7qDOAqFWJvfPmX.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AbF_7Ho2Ip5Pttb0rUEVfBP6nEgIhdtA/view</link>
@@ -63,7 +63,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> REFÉM - 2005 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR orange] Refém - 2005 - SD 720 1080 - Dublado LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kyMWqnoxVoeBIPA3iN9UUd0PrP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uvvH7WhrBqaQjm7ynBGHNS5OOHO.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RepeXbDltFkcxlgFWTF3ihIGz9tqgXSr/view</link>
@@ -73,7 +73,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <item>
-<title>[COLOR orange]LS-> PROJETO GEMINI - 2019 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Projeto Gemini - 2019 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/7I1u6V3LN0W3d9nNdCtzdalw8IY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hZJLBaTca4ZBsogOOmr8dR7aO5L.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WPWRONXNW1Y4IlwXyf-KG9ykMSmRSyCT/view</link>
@@ -86,14 +86,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[COLOR orange][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/nmQTKWc/epicos.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES ÉPICOS ESTÃO AQUI</info>
 <genre>ÉPICOS</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange]LS-> ROBIN-HOOD - 2010 -  1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Robin Hood - 2010 -  1080 - Dublado[/COLOR]</title>
 <thumbnail>http://cinemaemcena.cartacapital.com.br/uploads/criticas_old/filmes-5938-cartazes-robinhood_04.jpg</thumbnail>
 <fanart>http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/70/25/56/19441957.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EUg56c4wPyRhMzTcVNlAH2n2T7bOIlSv/view</link>
@@ -102,7 +102,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ROBIN HOOD-O PRÍNCIPE DOS LADRÕES - 1991 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Robin Hood - O Príncipe dos Ladrões - 1991 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwueNrnleCnA5gVeXkhpTcNNBWz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/76kQ2XjTQ306ybeDjGM76vDKp6x.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a7f4SzKRVnzERa3hYX90x_jKkNgvMRHq/view</link>
@@ -111,7 +111,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> 10.000 AC - 2008 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] 10.000 A.C. - 2008 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/peOt178DNroZYzm2ncz9aZLzgB4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nZlvmbnx5ZJYkSVocuQvOgVlWli.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13IlnNAfjL1L3azaCyD2ArXhvww7vv0nP/view</link>
@@ -120,7 +120,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> A ÁGUIA DA LEGIÃO PERDIDA - 2011 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] A Águia da Legião Perdida - 2011 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/hX1EwSkbNKKjoi6vTMmbp0pY4CP.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yHq20E2sOMKnJqzDW3CjmM9FDpe.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZszUdNQLybdUtiWu1um7KjDkg_mvR6sQ/view</link>
@@ -129,7 +129,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> REI ARTUR - 2004 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Rei Arthur - 2004 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rf2qt8KHzmqqd7mIXz75osD5o04.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/r0vSKooy7FjFQtMJ1fBF46Q05Nj.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19T4F74HJSdBfNNvRkAdpWD87SZxE-9eo/view</link>
@@ -138,7 +138,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> EL CID - 1961 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] El Cid - 1961 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/2CKcPo2M9pejF3Vi7PBHPVw5Eei.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/n7R8fy38YSfLxvbNZypisunWmxt.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CpS1Xxi9VC7jLkB1kB7rMkCwZyKNmpcf/view</link>
@@ -147,7 +147,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ALEXANDRE - 2004 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Alexandre - 2004 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/kpRUmUIH24ZAObmxYT2PMODfUBE.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ySK5gxvXYnn55fjCIBeJVsG17RJ.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JrJc7eC-LPHHaTtDD-q_k9TKVNiiJHEm/view</link>
@@ -156,7 +156,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> A QUEDA DO IMPÉRIO ROMANO - 1964 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] A Queda do Império Romano - 1964 - 720 - Dublado[/COLOR]</title>
 <thumbnail>http://eovideolevou.com.br/imgProduto/29995_f1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gzjPKIqFl2RGAyokda0XuEp1xJJ.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nUCtnGPTB47OmMwZCUAIWVAOT5M5Pt3B/view</link>
@@ -165,7 +165,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> EXCALIBUR - 1981 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Excalibur - 1981 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yjPnQDvhFh41227othpY3qm92U.jpg</thumbnail>
 <fanart>https://www.uliege.be/upload/docs/image/jpeg/2018-10/agenda-legendearthurepee.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18fcPZBe93VXdKU_1CSSQ46xfrSLazzir/view</link>
@@ -174,7 +174,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> LEGITIMO REI -OUTLAW KING - 2018 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Legítimo Rei - 2018 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/imep7mUf7WzCdZiCE6adArFQrlt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tT59Hcfj4Jb3qlTsJDuT0Sn7COl.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1diLPTKqXerZrs9IEW4VaMVK1_gEpfsqz/view</link>
@@ -183,7 +183,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> VIKINGS OS CONQUISTADORES - 1958 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Vikings, os Conquistadores - 1958 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/8yWXojwO5LJWvf83be0yDjjobJ7.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sncFo2xTfZFv7ApUZlqM9QFip8X.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1luL4zOeEQbaKqB_H094VjLznJwaw1bba/view</link>
@@ -192,7 +192,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> BEN HUR - 2016 -1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Ben-Hur - 2016 -1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5a6KoGh2rQWsT44psBBZqt1CexM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/A4xbEpe9LevQCdvaNC0z6r8AfYk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/163_q3KhXtj8-4YtkSv3GdNtVD2Y1lrw-/view</link>
@@ -201,7 +201,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> BEN HUR - 1959 -720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Ben Hur - 1959 -720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/1LIr3W9fM2sT9cwXHmN9cKlXjCk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zYtWYsxf7DOXqrrcMPxknS2KPop.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DC0wDf8GOVotcZYbyPLYrQlKE6aOzuVB/view</link>
@@ -210,7 +210,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]CENTURIÃO - 2010 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange]Centurião - 2010 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://uploaddeimagens.com.br/images/002/441/062/full/centuri%C3%A3o.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iSHNL3URBKtSkEJsxeTYLzkJ8gE.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1irHurvutFXXFV0aHrVZKaLsNRlQWuuVI/view</link>
@@ -219,7 +219,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> OS DEZ MANDAMENTOS - 1956 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Os Dez Mandamentos - O Filme - 1956 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://f001.backblazeb2.com/file/papocine/2016/02/20160219-os-dez-mandamentos-1956-600x843.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rKiNFQYpe0qPbVKkBWbUJAVtNl.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kNDKick-yLv_b8f4_EF-aoJtvz3z6_aJ/view</link>
@@ -228,7 +228,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> TROIA - 2004 - 720- DUB[/COLOR]</title>
+<title>[COLOR orange] Tróia - 2004 - 720- Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTds9DVMw55qYyQEMjpYHb07zf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ivzWoQkwUl1iFLOWP5yxlW3nXS.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y8t0yO3JvFqH2IeA9DkFbBb-XRyc02Kg/view</link>
@@ -237,7 +237,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> REI ARTHUR - A LENDA DA ESPADA - 2017 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Rei Arthur: A Lenda da Espada - 2017 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS5Fij7qKCU0EhUh1BjenkeitXI.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sVkjgKq8cwKm95LCyfrLldLbQIG.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cGelf-pCK0HjtHQbTPK0hpkEUA2MDVfA/view</link>
@@ -246,7 +246,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> POMPÉIA - 2014 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Pompeia - 2014 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvQCBKXzfbcwGQjrbmlsTUKHQLJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6Q4GeMo08AOJJos9BzgnutFiZTG.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CzRA17-Xr9wm7caae3haudkmvJ64KQLn/view</link>
@@ -255,7 +255,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> HÉRCULES - 2014 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Hercules - 2014 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/psXLdxUr4lsClhwgb7pPEtbMpyw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rzSnoRefb2iOWJ4bqfAfqD7Pymm.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ev1NBEjyF5rPHrpAN6Qeluo2yGWldcbH/view</link>
@@ -264,7 +264,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]APOCALYPTO - 2006 - 720 - LEG[/COLOR]</title>
+<title>[COLOR orange] Apocalypto - 2006 - 720 - LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pONUFedXdonMCVBmMSP4gThEq7K.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iCMhxXoa53Jdm68R91QlZbFVx6R.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yhPe19o-fRT9Sjjrv_rF9ezUI26m6WfB/view</link>
@@ -273,7 +273,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> JASÃO E O VELO DE OURO - 1963 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Jasão e o Velo de Ouro - 1963 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWtZQzAu4uobJRqz1XyvxKRRjlW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qX3gnd1YbwR3cmWbtgiJCFHTjO4.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Z5o8LhnLQmLfddZG4aIEory_PUzn5SE/view</link>
@@ -282,7 +282,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> CLEÓPATRA - 1963 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Cleópatra - 1963 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gatZYIySnwFDCvGEiP8swEyilQz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tS3ms6HM52hLLU3eRdjVPSgSS4w.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_FbA9IfZLo54_yXWV3XrYI0qj3nWsMZS/view</link>
@@ -291,7 +291,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> LAWRENCE DA ARABIA - 1962 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Lawrence da Arábia - 1962 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQbjWEbYWr3PaIWvOLVkOaBX4DG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1XkzH0xQUgDTnXwIPKT5zDOUGJi.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YMWMF-GuKljo_kYJ6zsCUL-lx7ik421N/view</link>
@@ -300,7 +300,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]REDBAD - A INVASÃO DOS FRANCOS - 2018 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] RedBad - A Invasão dos Francos - 2018 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhhfzRFx8bwrGnz3KYNXfj4MQBr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pCXDivpeDbHHRIk5ESE8nJIcY0r.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S9ugzq1VB9NUoLuddFznFC6yYWjiswQ_/view</link>
@@ -309,7 +309,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> A ODISSÉIA - 1997 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] A Odisséia - 1997 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7P5TgpDBzwWisnlMHWVa79E1GY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xWQ0KxliLlrtGX3Uqcn3yVY3cn9.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-Ue3x6NB_8lGgu3-j2v-p3m3VoEPBvIP/view</link>
@@ -318,7 +318,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> OS CAVALEIROS DA TÁVOLA REDONDA - 1953 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Os Cavaleiros da Távola Redonda - 1953 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIOQGsQEBWgesRv7Kyweh2kVMVm.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/60mFqK2vR41lLmJF6emiVyEYbnd.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HsgTX3ZHYOrLqb34lv-KyJN3NRaBYpLx/view</link>
@@ -327,7 +327,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS- OS DUELISTAS - 1977 - 720 - LEG FIX[/COLOR]</title>
+<title>[COLOR orange]LS- Os Duelistas - 1977 - 720 - LEG FIX[/COLOR]</title>
 <thumbnail>https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/11/59/20130287.jpg</thumbnail>
 <fanart>https://i1.wp.com/roadmovie.com.br/wp-content/uploads/2019/03/duellists-1.jpg?fit=1197%2C663&ssl=1</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ioLRqFa08hbf3STmqqPQqBOsGQcpI9UR/view</link>
@@ -336,7 +336,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> WATERLOO - A BATALHA DE NAPOLEÃO - 1970 - SD  - LEG FIX[/COLOR]</title>
+<title>[COLOR orange] Waterloo - A Batalha de Napoleâo - 1970 - SD  - LEG FIX[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCTgVa7ipTu7BOeD7nydhA5vx66.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qMRdCfAnFLawsThEFPFm5yefB7E.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yG6rAfkYM5QKMcVYdtwzKGtawfCr3mvV/view</link>
@@ -349,8 +349,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[COLOR orange][B] FILMES DE COMÉDIA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/4pyT65J/comedia-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/L5T5H5M/comedia.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE COMÉDIA ESTÃO AQUI</info>
 <genre>COMÉDIA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -359,7 +359,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Um Maluco no Pedaço – A Reunião - 2020 - LEG FIX[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gBQyOthLQHP8g0P19wBbIf1rLAVe1kx-/view</link>
 <thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>30 anos depois, os Banks se reúnem. Will Smith e seus ex-colegas de trabalho se juntam para uma noite divertida e emocionante para honrar o seriado que durou seis temporadas e 148 episódios. </info>
 <genre>COMÉDIA</genre>  
 </item>
@@ -370,32 +370,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[COLOR orange][B] FILMES DE WESTERN[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/ch4dDQN/sub-cat-western.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/020mmhf/western.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE WESTERN ESTÃO AQUI</info>
 <genre>WESTERN</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B] Sabata - O Homem que Veio para Matar - 1969 - Dublado[/B][/COLOR]</title>
+<title>[COLOR orange][B] Sabata - O Homem que Veio para Matar - 1969 - Dubladolado[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kSwbp37m-mVR0rkqbaUkymYZTglXWI4H/view</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51vHrpB43EL._AC_.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Um cofre contendo dinheiro do Exército dos Estados Unidos é roubado do banco da cidade de Dogherty. No dia seguinte, o pistoleiro Sabata alcança os bandidos e resgata o cofre. Ele, com ajuda de Carrincha e Alley Cat, descobre que Stengel, Fergusson e o juiz O'Hara, pessoas importantes da cidade, estão envolvidas no roubo. Exige uma recompensa para não denuncia-las mas Stengel tenta elimina-lo diversas vezes, sem sucesso. Banjo, um misterioso músico, também ajuda Sabata inicialmente, mas alia-se a Stengel mediante grande recompensa para matar Sabata.</info>
 <genre>WESTERN</genre>  
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
-<title>[COLOR orange][B] A Lei do Mais Valente - 1959 - Dublado[/B][/COLOR]</title>
+<title>[COLOR orange][B] A Lei do Mais Valente - 1959 - Dubladolado[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sqe8K21MzMrohd3UzjckvMumTVgmiKT3/view</link>
 <thumbnail>https://i.ibb.co/0Jkwtyv/yellostone-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Um soldado caçador Que faz amizade com as tribos Indígenas norte-americanas em seu Território de caça. Sua amizade com Os Índios Sioux é fortalecida quando ele salva a vida de seu cacique, mas quando a Cavalaria dos Eua é atacada pelos Índios, Ele fica dividido entre suas amizades e lealdade ao seu País. As Tropas são abatidas pelos Sioux, mas Kelly resgata Wahleeah (Andra Martin), uma garota Índia Apache que está sendo mantida prisioneira pelos sioux porque ela se recusa á casar com seu cacique. Agora, em nome de sua honra, ele terá que enfrentar toda uma nação Indígena.</info>
 <genre>WESTERN</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange]A VOLTA DOS SETE HOMENS - 1966 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] A Volta dos Sete Homens - 1966 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/4pw1nvW/returnsevenicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/4jWDwjz/returnsevenfan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G2z8hmUZ-Q0hQNU0CEDm9xTtrb-iAJm7/view</link>
@@ -404,7 +406,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]O CAVALEIRO SOLITÁRIO - 1985 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O Cavaleiro Solitário - 1985 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/4wyf4Rd/paleridericon.jpg</thumbnail>
 <fanart>https://i.ibb.co/1Qx9Syb/paleriderifan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zOPO3K7DvaD_63BjJUEOJ6rpdo8SJiOl/view</link>
@@ -413,7 +415,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item
 
 <item>
-<title>[COLOR orange]FUGA HERÓICA - 1955 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Fuga Heróica - 1955 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/zJKGsP5/fugaheroicaicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/Syj0yHf/fugaheroicafan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ZymhHISmhZw_ouJos5cfrf4B58E2sVM/view</link>
@@ -422,7 +424,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]SILVERADO - 1985 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Silverado - 1985 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/XjR2bZ8/silveradoicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/YdYkVHQ/silveradofan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Vz1JrC30zjAwy9xBTXJrGyN_O0E8D5tU/view</link>
@@ -431,7 +433,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]ARMA PARA UM COVARDE - DATA - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Arma para um Covarde - 1957 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/WDXMVL2/guncowardicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/DG69MPv/guncowardifan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gW2tkYi8R34TtWxtPPsYl3FtPvUlSVb1/view</link>
@@ -440,7 +442,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]SETE CIDADES DE OURO - 1955 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Sete Cidades de Ouro - 1955 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/Tm0N2JM/sevenctygoldicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/KDMTqNZ/sevenctygoldfan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1chMogl6betJVzH2olkAr0W-Q9Buv1RyY/view</link>
@@ -449,7 +451,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]À PROCURA DA VINGANÇA - 2006 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] À Procura da Vingança - 2006 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/8sdcw7H/serafinfallsicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/JnytVK5/serafinfallsfan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DsSMNXn7778WePM4ZxtpjoEIqQSbI9Hh/view</link>
@@ -458,7 +460,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]O CAVALEIRO SOLITÁRIO - ZORRO - 2013 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O Cavaleiro Solitário - Zorro - 2013 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/LQqyFLX/zorro1icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/2gfN9jG/zorro1fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rf_SpJRsXstz57MwjEtk1xfuuxeD7vf7/view</link>
@@ -467,7 +469,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]A RONDA DA VINGANÇA - 1953 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] A Ronda da Vingança - 1953 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/QFF8F16/rondavingan-aicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/1fTCgT3/rondavingan-afan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VRDdfKBgQovRJScp8jHC3axkYnQZlmRC/view</link>
@@ -476,7 +478,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]SANGUE DE PISTOLEIRO - 1958 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Sangue de Pistoleiro - 1958 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/xq0y8LS/sanguedepistoleiroicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/QcvFrKd/sanguedepistoleiroifan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OawMkInXHDQw9JIhjumoZ9XNt5W5nnq1/view</link>
@@ -485,7 +487,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]SOL VERMELHO - 1971 - 720 - DUB [/COLOR]</title>
+<title>[COLOR orange] Sol Vermelho - 1971 - 720 - Dublado [/COLOR]</title>
 <thumbnail>https://i.ibb.co/zXL98g1/solvermelhoicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/Fhqb8r7/solvermelhofan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q_AepxadHg2KV0p-eRyitxs1biKImaAK/view</link>
@@ -494,7 +496,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]O REGRESSO - 2015 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR orange] O Regresso - 2015 - SD 720 1080 - Dublado LEG[/COLOR]</title>
 <thumbnail>https://i.ibb.co/9YvSjgd/revenanticon.jpg</thumbnail>
 <fanart>https://i.ibb.co/sWGdLxr/revenantfan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m7vuH5wAhF-e8fgdSVTmmkUTn13EZyvs/view</link>
@@ -503,7 +505,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]BANDOLEIROS DO ARIZONA - 1965 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Bandoleiros do Arizona - 1965 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/GT5TJVJ/arizonaraidersicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/N9GJdKT/arizonaraidersfan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CfmDmI-e9NIBTtid-Pmz9lYouvXsFVGq/view</link>
@@ -512,7 +514,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]PACTO DE HONRA SASKATCHEWAN - 1954 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Pacto de Honra - Saskatchewan - 1954 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/b3QwBRL/pacthonraicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/xXgj461/pacthonrafan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HuqwTUDcHnjHnwXxd2XDyDBsBtu8gwBf/view</link>
@@ -521,7 +523,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]PANCHO VILLA - 1968 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Villa, o Caudilho - 1968 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/wNqfyWy/villlasridesicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/hFyV3zv/villlasridesfan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JvJSq3tDbuU7nd1bE9ti0mG3otHRYeqs/view</link>
@@ -530,7 +532,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]MONTE WALSH - O ÚLTIMO COWBOY - 2003 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Monte Walsh - O ÚLTIMO COWBOY - 2003 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/wWR2tgL/montewalshicon.jpg</thumbnail>
 <fanart>https://i.ibb.co/02dpNm5/montewalshfan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cUs-ZK8nRakRVF9nqJWIMYCzk33GQHCw/view</link>
@@ -539,7 +541,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]PERSEGUIÇÃO MORTAL - 1981 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Perseguição mortal - 1981 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/RCsxVkV/persegmortal-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/kGtzB73/persegmortal-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vUF--TnJ9aGC6hdwZtiZVY3R7CCuaS7y/view</link>
@@ -548,7 +550,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]CALIFÓRNIA ADEUS - 1977 - SD - DUB[/COLOR]</title>
+<title>[COLOR orange] Califórnia Adeus - 1977 - SD - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/Wtkg6xw/california-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/7zTNHXx/california-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ITlg-iTTcvVdndERVhVgRrS7cUUvLs9P/view</link>
@@ -557,7 +559,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]OS ÚLTIMOS MACHÕES - 1976 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Os Últimos Machões - 1976 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/HXDZRzn/lasthardman-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/m90gF1M/lasthardman-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16WtbBk5havWBS3e-iNy7vFIemXSyenoJ/view</link>
@@ -566,7 +568,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]VERA CRUZ - 1954 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Vera Cruz - 1954 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/TmNCGXq/veracruz-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/YXFScFD/veracruz-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_vNrPtDtUsTbueUAQWIFzBI1i6mYrFqd/view</link>
@@ -575,7 +577,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]A QUADRILHA MALDITA - 1959 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] Quadrilha Maldita - 1959 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/DKt36zq/qudrmaldita-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/JsCfr7t/qudrmaldita-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/107JA0rPJuF5ftZmd4o6iHUxm1JK0vJcn/view</link>
@@ -584,7 +586,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]VIVA ZAPATA - 1952 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Viva Zapata - 1952 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/h28czFd/vivazapata-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/HXb6vCG/vivazapata-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Bq5FuMFDpkMoDZJLzaXDze5sV5LQV6ay/view</link>
@@ -593,7 +595,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]RINGO E SUA PISTOLA DE OURO - 1966 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] Ringo e Sua Pistola de Ouro - 1966 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/tQXpnbn/ringopistoro-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/jfN3P5b/ringopistoro-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tW3XDdu0RzubrL3A-AQqmLYHpt6OKnYy/view</link>
@@ -602,7 +604,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]CHUKA - 1967 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR orange] Chuuka - O Revólver de um Desconhecido- 1967 - SD 720 1080 - Dublado LEG[/COLOR]</title>
 <thumbnail>https://i.ibb.co/vhygKs3/chuka-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/hBMWPCb/chuka-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W9xNe1qOT0XYIzQHeBsb_wABXf2h8Gb7/view</link>
@@ -611,7 +613,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]A PROPOSTA - 2005 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]A PROPOSTA - 2005 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/dkLXSNf/aproposta-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/BqCFw79/aproposta-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FvXFjHdqxew0zlPwgNcy1Soxyy-A23Gb/view</link>
@@ -620,7 +622,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]FLECHAS DA VINGANÇA - 1951 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]FLECHAS DA VINGANÇA - 1951 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/GFQHQxg/flechasdavingan-a-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/zrwY7hc/flechasdavingan-a-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mZnMvcfdCUytF1fOgSHlVznLIecfrbn3/view</link>
@@ -629,7 +631,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]O ÚLTIMO HOMEM - 2018 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange]O ÚLTIMO HOMEM - 2018 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://i.ibb.co/sCb7tDV/oultimohomem-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/Rj8fgV5/oultimohomem-fan.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gYmlmjuqMKPYHKC4pVb7kE9RL9TyTBsZ/view</link>
@@ -638,7 +640,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> SUA LEI ERA A VINGANÇA - 1968 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] SUA LEI ERA A VINGANÇA - 1968 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/brLjw4P0dWrQQwK8znYmv4iRrVX.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/xD0mDzxbuLw/maxresdefault.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mUvbmf2nFszUzAMCcPYKWHCuXy3AnbI7/view</link>
@@ -647,7 +649,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> OS ÚLTIMOS FORA DA LEI - 1993 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] OS ÚLTIMOS FORA DA LEI - 1993 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hI5mnTskSOhFO5L9xzeTZ7vnML4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/w6ZHUvUJeouoGMBMK96IOkzZfzX.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WPVrSolGJSUwl3bderCxuaudKjsyH-DC/view</link>
@@ -656,7 +658,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O GRANDE GUERREIRO - 1955 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] O GRANDE GUERREIRO - 1955 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1dDfH6eBNBkBDyJverydwjQj0s.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/67jvdFKnVV8F9sZKsShcJaI5SnE.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pjZQlEdnQ7xhbvs8eI4JYiYubbkk5aaw/view</link>
@@ -665,7 +667,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ALVAREZ KELLY - 1966 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] ALVAREZ KELLY - 1966 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kIcuVMyJJKmxy7bFbI9q1DWByR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/w1F99ViuHdD3oi6esgaXR0jMMVh.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EelWMwgQBlRxW849bllk6JkjJezBCj3T/view</link>
@@ -674,7 +676,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O RIO DAS ALMAS PERDIDAS - 1954 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O RIO DAS ALMAS PERDIDAS - 1954 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SQNgCCAKTkepJQMhGV9GV8b7Gf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fEjeYJhaRnWsZwKDJpUaQk3hX9.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SsdjfFkki0hpIYvts-aZz7hYYahcexrI/view</link>
@@ -683,7 +685,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O XERIFE DE QUEIXO QUEBRADO CITY - 1958 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] O XERIFE DE QUEIXO QUEBRADO CITY - 1958 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://3.bp.blogspot.com/-Ujr9RONhfHU/ViVcyGVv0cI/AAAAAAAA0Do/I31-TcqndDk/s1600/71728198.jpeg</thumbnail>
 <fanart>https://cdn1.solojavirtual.com/arquivos_loja/34333/Fotos/thumbs3/produto_Foto2_7397333.jpg?cache=20160526</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y7fa246HqH3MY1rtomwYe2e35ImpSkFu/view </link>
@@ -692,7 +694,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> KEOMA - 1976 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] KEOMA - 1976 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7EN6NgJVjJty2zA1viqYGFcEwN.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cx7kTGcguQi9UHSYWKgWrIkI70d.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uYGanVu56FEyxeFbtnvz0ewoWP-jJEs2/view</link>
@@ -701,7 +703,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> OS PROFISSIONAIS - 1966 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] OS PROFISSIONAIS - 1966 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVlc6N18eplztwvXvMlPAOsD1Mp.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4zj4CogpMXE0PTHqgYnSVZfQvXN.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QA4fk1-Z3IOc5MCXIv6y7ZSVR-PDgpPw/view</link>
@@ -710,7 +712,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> A VINGANÇA DE ULZANA - 1972 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] A VINGANÇA DE ULZANA - 1972 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLtklx60ZVMgV2HUwRA7gacpyk9.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pquVTF618HO6TQISnqsvjHBPg47.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/185u_igbfrc3PEek0DP7tuP6Yci7lhH24/view</link>
@@ -719,7 +721,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ÁGUIA CINZENTA - GRAYYEAGLE- 1977 - 1080 - LEG FIX[/COLOR]</title>
+<title>[COLOR orange] ÁGUIA CINZENTA - GRAYYEAGLE- 1977 - 1080 - LEG FIX[/COLOR]</title>
 <thumbnail>https://www.dvdplanetstore.pk/wp-content/uploads/2017/12/n8As1whCOc87N1KSbRKrnYs2M6T.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-UIdhEYtaIUQ/WEAUZxddMqI/AAAAAAAAPFY/XZwr7Due0q0B3JHtprH5HR9puQWOPBJuACLcB/s1600/INDIOS%2BEM%2BLUTA%2BfjFMtRiEyPkez7H5PaHw9oPOFDa.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1T7AbMnCIoseUU94kU1gWw_hXDamB-j5u/view?usp=sharing</link>
@@ -728,7 +730,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ENTERREM MEU CORAÇÃO NA CURVA DO RIO - 2007 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] ENTERREM MEU CORAÇÃO NA CURVA DO RIO - 2007 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/12099791/1009573278.jpg?v=637142215043300000</thumbnail>
 <fanart>https://www.spiritualityandpractice.com/uploads/film_reviews/images//bury-my-heart-at-wounded-knee-hero.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S5DEoMLnE1sc8TAdsZAnnWbLkF2hNqOL/view</link>
@@ -737,7 +739,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O ÁLAMO - 2004 - SD - DUB[/COLOR]</title>
+<title>[COLOR orange] O ÁLAMO - 2004 - SD - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZrWYkxCCwSPKp4VjVvn46uHbIX.jpg</thumbnail>
 <fanart>https://www.historyonthenet.com/wp-content/uploads/2019/08/the_alamo_2004_best_davy_crockett.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CngUK18G3W0ZIweqbD7p5N5puUW-emkX/view</link>
@@ -746,7 +748,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> CAVALGADA DOS PROSCRITOS - 1980 - SD - DUB[/COLOR]</title>
+<title>[COLOR orange] CAVALGADA DOS PROSCRITOS - 1980 - SD - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gftL9yR95UYxgZVWtMXKCbTpPD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zd9JSkMwoLWyk8CPwuOmasihjEr.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ic3e8bmyEaUVqp1ckIT4ncPXFu94WZne/view</link>
@@ -760,14 +762,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B] FILMES DE AVENTURA[/B][/COLOR]</name>
 <link>NO LINK</link>
-<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/GC2RLHR/aventura.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MAIORES DE FILMES DE AVENTURAS ESTÃO AQUI</info>
 <genre>AVENTURA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange]KING KONG - 2005 -  1080 - DUB[/COLOR]</title>
+<title>[COLOR orange]KING KONG - 2005 -  1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQYMVoI9QE2wQCOSrxhiBYd4v0w.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zlWu2lQj7bEa3hlMSQpXzc9tbtA.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15zXWKFMYy9D5V8CY38hz-cjU1UusPVRh/view</link>
@@ -776,7 +778,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> WATERWORLD-O SEGREDO DAS ÁGUAS - 1995 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] WATERWORLD-O SEGREDO DAS ÁGUAS - 1995 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://cdn.chili.com/images/public/cms/c0/bb/1e/15/c0bb1e15-f03c-487b-aa83-cc1436fa1cca.jpg?width=1848</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3YafUwZBXU8irYkBcgPDQByPfMR.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p2sXB7vMaqwyGTYGVxm6GtE1uKsyvVZ_/view</link>
@@ -785,7 +787,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O HOMEM DA MASCARA DE FERRO - 1998 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O HOMEM DA MASCARA DE FERRO - 1998 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB7B8Lp2OyCXdhplUwAGiSsJWFw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tdUdTIIMaOcnhMW4f5yopkTJEH9.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cPfMVbxJmfbSQaXg3RuSIxxN5OS_LIWg/view</link>
@@ -794,7 +796,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> KONG - A ILHA DA CAVEIRA - 2017 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] KONG - A ILHA DA CAVEIRA - 2017 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yslaBeFjrbhlO1iFxFF7AFzINXu.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/186iNg3p8yLFTb8TF5gqlX6Spf_07y1rW/view</link>
@@ -803,7 +805,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> DIAMANTE DE SANGUE - 2006 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] DIAMANTE DE SANGUE - 2006 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEfrTVDtSVTMvOIH5AzM8QpTbCj.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8EDlhw9LyQFixOF5eHybr5sfM4z.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g9thL7ChzIHBqohxdXNCT1f7hsKNx_da/view</link>
@@ -812,7 +814,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> BRUC - O DESAFIO - 2010 - 720 - DUB LEG[/COLOR]</title>
+<title>[COLOR orange] BRUC - O DESAFIO - 2010 - 720 - Dublado LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/39LwKYVAVdmPjp3XqWwym3FybmK.jpg</thumbnail>
 <fanart>https://uploaddeimagens.com.br/images/002/452/918/full/BRUC.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-SuvrOI3ZM4fGK9R8Eg0-MIIzT2a60W5/view</link>
@@ -821,7 +823,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O CONDE DE MONTE CRISTO - 2002 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] O CONDE DE MONTE CRISTO - 2002 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>http://4.bp.blogspot.com/-QdFJGMq_mwo/UnKJ9sKclwI/AAAAAAAAClI/sXxiZTjgAWI/s1600/o-conde-de-monte-cristo_2002.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/n6UosJIf4xUDrCeZMbLXW6M6peg.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BHK6oVHKNCH6rrO3VGnroW4JgOIzP1aM/view</link>
@@ -831,7 +833,7 @@ Assombrado pelo curso que tomou sua vida, com o passar do tempo ele abandona tud
 </item>
 
 <item>
-<title>[COLOR orange]LS-> CORAÇÃO DE CAVALEIRO - 2001 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] CORAÇÃO DE CAVALEIRO - 2001 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w1280/3cOb2JeDRJS1S6EOpkpucEEdgHv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/owpLMshw28hxgYuOCTMgJl1pxDI.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17XMXkI4RzuNMgsT6zc6gUUlWr7dj0-Zq/view</link>
@@ -841,7 +843,7 @@ Assombrado pelo curso que tomou sua vida, com o passar do tempo ele abandona tud
 
 
 <item>
-<title>[COLOR orange]LS-> A ILHA DO TESOURO- 1990 - SD  - DUB[/COLOR]</title>
+<title>[COLOR orange] A ILHA DO TESOURO- 1990 - SD  - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuzBAg36N9GVdBGdjQ29PmcDAqk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iytjd4hkbdFh94YuCA3fAtZbQhf.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hjVE_5gO6zY_1zV7PNnZihrHM8JmKWSt/view</link>
@@ -851,7 +853,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> A LENDA DO TESOURO PERDIDO - O LIVRO DOS SEGREDOS - 2007 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] A LENDA DO TESOURO PERDIDO - O LIVRO DOS SEGREDOS - 2007 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/52g68E3pPGshzhJqSyKZtbS6j3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/oKLa1SGDlT0Zi9lyLcl2N2sFxsc.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-qyC2ytVVx1FT01tB0ybOJE_mK9em25w/view</link>
@@ -860,7 +862,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> A LENDA DE TARZAN - 2016 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] A LENDA DE TARZAN - 2016 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltEzaba7fKTQQyIdb8QzCwHGdBc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gaJtW2qBPHAVbfv23302zaolzat.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gNZu8izhok37OPvXuRzep8Z57uP8rdlb/view</link>
@@ -869,7 +871,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> AGUIRRE, A CÓLERA DOS DEUSES - 1972 - 1080 - LEG[/COLOR]</title>
+<title>[COLOR orange] AGUIRRE, A CÓLERA DOS DEUSES - 1972 - 1080 - LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/44gMRRnvVlKjaJmObBovhUAsUi9.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5ljLIxjwM1C8G9DDviJzlxZM0b7.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q93mZ3fRRRB_E-oXH5dJt3qVqEIavvo_/view</link>
@@ -878,7 +880,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> BEAU GESTE - 1966 - 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR orange] BEAU GESTE - 1966 - 1080 - Dublado LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjIo8Wtw48OyTQ5dGzNE2bt8V1r.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/bfwAsokyvaBIxP7vus7aa0jLFwq.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rqQWYXYmQHYP9My1esj6uqF7FAiOMws1/view</link>
@@ -887,7 +889,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> A SOMBRA E A ESCURIDÃO - 1996 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] A SOMBRA E A ESCURIDÃO - 1996 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQIxgAeOyltdrSNVGVhimGjX2hL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tJTGhhf7BLcSJSaj0To84xJCtox.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uPxNnfJl5nM5KLfcInRf6TOfPyj5RQQZ/view</link>
@@ -896,7 +898,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> BEM VINDO À SELVA - 2003 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR orange] BEM VINDO À SELVA - 2003 - SD 720 1080 - Dublado LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qn8gHDYp2ND9jQY3QXufCBKSLD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gBHqJqxGrJRHcoVHs39eyIvy8rR.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18f-nuV128ULVA_kGIkGP4UfffxJOYeRk/view</link>
@@ -905,7 +907,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> LEGIONÁRIO - 1998 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] LEGIONÁRIO - 1998 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTmf7SWVhv2wtN5Po478KnsZan2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mGUq5VztZANKzSm8S19qWs6vOn6.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rXhwmEKxNBqAIYDwCsiS4c0_9OvI6zYh/view</link>
@@ -914,7 +916,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> LINHA DO TEMPO - 2003 - SD - DUB[/COLOR]</title>
+<title>[COLOR orange] LINHA DO TEMPO - 2003 - SD - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6tzqXzlUjCOZT035zYOLqfYFSr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4QQve9FxBjbmsoeCH2hblpnBbh7.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1afRTQ9HlzVifgwdE59cr_lVju9m8XQBM/view</link>
@@ -923,7 +925,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item> 
-<title>[COLOR orange]LS-> NÁUFRAGOS EM LUTA - 1990 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] NÁUFRAGOS EM LUTA - 1990 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLxQnuqxZjPRaRbPodZgIxUfGgp.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/rp5dh6D0MLOIIVHkugv6Z8gBLwg.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1poDDMCQzX-BIzadXw2r5F9GaId9SWwUY/view</link>
@@ -932,7 +934,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> WARCRAFT O PRIMEIRO ENCONTRO DE DOIS MUNDOS- - 2016 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] WARCRAFT O PRIMEIRO ENCONTRO DE DOIS MUNDOS- - 2016 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cPJhbIwsmMXsV9vihoPEFBFFHm.jpg</thumbnail>
 <fanart>hhttps://image.tmdb.org/t/p/original/2zvLBtunukDw1rP66WTTxJsEabh.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Cdz4aZWaY5BsMyXFlW5f8DI6G0_G62_G/view</link>
@@ -941,7 +943,7 @@ O capitão Long John Silver aparece em seu caminho e se dispõe a ajudar o garot
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O CHAMADO DA FLORESTA - 2020 - 1080 - DUB [/COLOR]</title>
+<title>[COLOR orange] O CHAMADO DA FLORESTA - 2020 - 1080 - Dublado [/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yFRpUmsreYO5Bc0HVBTsJsHIIox.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view</link>
@@ -954,14 +956,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[COLOR orange][B] FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/ngGzTdW/sub-cat-animacao.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/dbfPqQz/animacao.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE ANIMAÇÃO ESTÃO AQUI</info>
 <genre>ANIMAÇÃO</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange]LS-> CASA MONSTRO - 2006 - 1080 - DUB [/COLOR]</title>
+<title>[COLOR orange] CASA MONSTRO - 2006 - 1080 - Dublado [/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eduzrwou4Lkr8Ybflr8Wmx5CNSZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xCPq0OXDs7LyFTzOCxanjkyr36l.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W7bzsz_Ar-qMBMorTv_D2zRM3A1GZRrp/view</link>
@@ -972,7 +974,7 @@ a crianças inocentes.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> AS AVENTURAS DE TINTIN - O SEGREDO DO UNICÓRNIO - 2011 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] AS AVENTURAS DE TINTIN - O SEGREDO DO UNICÓRNIO - 2011 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/3csgwopp3446nQdGkN7tqmqybPD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/m3xgF9JiTlfN1rO9hcvTd4PTIQy.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OOpGzOg0Dy6c7eqn2VxxmpAWZ6JF1jKv/view</link>
@@ -984,7 +986,7 @@ Sempre acompanhado pelo cãozinho Milu, Tintim se alia ao capitão numa jornada 
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ZOOTOPIA- 2016 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] ZOOTOPIA- 2016 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/nZAnKuEhztoOFi8PSUMPUcFLn2u.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/lgfoNa0kYgqDQC0k4xpGtY8Bw3r.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bKI0fGpJrT2U4V-xf2Ht_i9zxrhd2pL2/view</link>
@@ -997,7 +999,7 @@ A inesperada dupla se dedica à busca de um animal desaparecido, descobrindo uma
 </item>
 
 <item>
-<title>[COLOR orange]LS-> VIVA - A VIDA É UMA FESTA - 2017 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] VIVA - A VIDA É UMA FESTA - 2017 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/obpbBBgRLjTvTgfvQxA3dzMXOk6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4AwT5SCq8Pww71Ai0FIpIDZFCMS.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZVOlW9MP8av4dZcfcIYOdw_FkuzjXOW5/view</link>
@@ -1008,7 +1010,7 @@ com inspiração no feriado mexicano do Dia dos Mortos, acaba gerando uma extrao
 </item>
 
 <item>
-<title>[COLOR orange]LS-> VALENTE - 2012 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] VALENTE - 2012 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/jX9O3eyzfw937QOhRF4wz6nhxBM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sgpRSSST1gsyqIo98HVFaMmruIk.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ltJoMHmvMyv0Fu2YEeIRlESbFLi1qP3P/view</link>
@@ -1022,7 +1024,7 @@ Agora caberá à jovem ajudar a sua mãe e impedir que o reino entre em guerra c
 </item>
 
 <item>
-<title>[COLOR orange]LS-> RATATOUILLE - 2007 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] RATATOUILLE - 2007 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/lpyqGZXjaPpr2dzkD9XD5DUGMkN.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1uDmqOspR1jVhwJnVy5EOEIFm3e.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mJwMbGEDwKGbebjjX8nCm1GSfU11C2eA/view</link>
@@ -1036,7 +1038,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> OS CROODS - 2013 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] OS CROODS - 2013 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iUL8WGXYnmpEPEVzg2gS0O4mHx.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/yPfYk7kpr26ybowSSuvo19Oetrj.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eAL37iVFZJLhfzcz0bkD1t6NdyRlejIq/view</link>
@@ -1045,7 +1047,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O ESTRANHO MUNDO DE JACK - 1993 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O ESTRANHO MUNDO DE JACK - 1993 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/4RfY3Bx11Bs8Vlyvws0CoJc0gr8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nRIjQOb6rbEWJEVi4G14znPVaO.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14mB0fm2zSNrcWTuhKM_k-IZ20w2cFja5/view</link>
@@ -1054,7 +1056,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> MOGLI - O MENINO LOBO - 2016 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] MOGLI - O MENINO LOBO - 2016 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/rew2myMbCPTQy6iRolv2jxxzphB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/8Be7azY4msT3c3Ixhucwt3Ug15t.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mKnq-iTt4qCC5qLYlJUKG6cu1p0jyKCK/view</link>
@@ -1063,7 +1065,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O REI LEÃO - 2019 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O REI LEÃO - 2019 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/143qqweM2br7GpfnfOzgUUDpnKsL9QTxS/view</link>
@@ -1072,7 +1074,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> UP - ALTAS AVENTURAS - 2009 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] UP - ALTAS AVENTURAS - 2009 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/cpjS9F6q5LY4ylgIzTxGU6Q3HlA.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/h8C7KZwCJO5DN7jPifc7AoIjx7k.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jm6YvijiUga3jfI8SOeSY_9VnYT7Mfgj/view</link>
@@ -1081,7 +1083,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> MARTE PRECISA DE MÃES - 2011 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] MARTE PRECISA DE MÃES - 2011 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOR98R2c4vV2TZjMXqBec8Op7je.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3TTP2qVda479YgtOLDWxhzaASXU.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17mhxnZYI2LLLXVDC7IEjONWozlbJL6Tu/view</link>
@@ -1090,7 +1092,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> SING-QUEM CANTA SEUS MALES ESPANTA - 2016 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR orange] SING-QUEM CANTA SEUS MALES ESPANTA - 2016 - SD 720 1080 - Dublado LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4WrNuunUYFYvD78QrzF62sGs3N.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/unTdRPiLGCHj8cd1dLxE3tTNJIt.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XNki25Z3dCbReIVDQoas3rrQR9s6Eoga/view</link>
@@ -1099,7 +1101,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O GIGANTE DE FERRO - 1999 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] O GIGANTE DE FERRO - 1999 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eg6T0waq3X7yd69IS1tjqAuyWIJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/11XLucJQvdgtchSfO0ZTbo966pp.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rZ3seEsEwBZ7PkTmNLAKi0-RChAJ82R9/view</link>
@@ -1108,7 +1110,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> WALL-E - 2008 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] WALL-E - 2008 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cJETuLMc6R0bTWRA5i7ctY9bxk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/c0HPlTSZP19HfxQmWc40d7vLX7d.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TJYWd9NPGA2lPeuIyeTXCuk3izvNMSlA/view</link>
@@ -1117,7 +1119,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> KLAUS - 2019 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] KLAUS - 2019 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/aLniylyJlbXEdxvaGSuQkRACWUx.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mlxKite1x1PgmIhJgAxNS9eHmH8.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AOHrOoRVbn9HdYCOwzM3wX_lidOR0AbH/view</link>
@@ -1126,7 +1128,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> LEO DA VINCI -MISSÃO MONA LISA - 2018 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] LEO DA VINCI -MISSÃO MONA LISA - 2018 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/vyJBGnjaSHCgmgbx5YsLjDhOuJu.jpg</thumbnail>
 <fanart>https://s2.dmcdn.net/v/NFWUj1Qfc-cFDYWv2/x720</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UrkIo1OeciwlxX2RrMJbk8nbCgaq2RtT/view</link>
@@ -1135,7 +1137,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ASTERIX E O SEGREDO DA POÇÃO MÁGICA - 2018 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] ASTERIX E O SEGREDO DA POÇÃO MÁGICA - 2018 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/y0zfYNjoXQKDoHlYJqIvGx9Hkvx.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/krfQioCVqZJNQyR7VTGFX2tQI8x.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/154YJCFg0cgtVtNRbtMLW9A4warKBfZjR/view</link>
@@ -1144,7 +1146,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O EXPRESSO POLAR - 2004 - 720 - DUB [/COLOR]</title>
+<title>[COLOR orange] O EXPRESSO POLAR - 2004 - 720 - Dublado [/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSe3cJa659RmleSQ86urPCjjFM5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vQuIi5iOCN3V6yg7nbP5HUiVnpK.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cPF92kEmOe5R0cIH_4cRS8KThDKd3P5M/view</link>
@@ -1153,7 +1155,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> SHAUN - O CARNEIRO- A FAZENDA CONTRA - ATACA - 2019 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] SHAUN - O CARNEIRO- A FAZENDA CONTRA - ATACA - 2019 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/AgYlP6g4vrNn1sVsAIvflW3TfJU.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DtcdPuJJrLecgAFSZyr6KM6WQA0a-aGL/view</link>
@@ -1162,7 +1164,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]LS-> RANGO - 2011 - SD - DUB[/COLOR]</title>
+<title>[COLOR orange] RANGO - 2011 - SD - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocDhKDGMjdWUemqSW5D4XsLPVTJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wLwT4tOYdh5Xhn9nMmBd5vDEeS2.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hobWiZFth2sdGJbxy0pVk5h7FUgFZng3/view</link>
@@ -1171,7 +1173,7 @@ deve fazer ao cozinhar.</info>
 </item>
 
 <item>
-<title>[COLOR orange]O TOURO FERDINANDO - 2017 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<title>[COLOR orange]O TOURO FERDINANDO - 2017 - SD 720 1080 - Dublado LEG[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z4SysiS73JvRAiVYy7gZW5JbpQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xqzpw3MkSss0F8vwRPBZiJLtZe7.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mmeZ7dj9CFbVfTsCnPQ51cFj7ealu-yG/view</link>
@@ -1183,9 +1185,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR red][B] FILMES DE SUPER HERÓIS[/B][/COLOR]</name>
+<name>[COLOR red][B] https://i.ibb.co/5YYRRVy/super-herois.png[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE SUPER HERÓIS ESTÃO AQUI</info>
 <genre>FILMES DE SUPER HERÓIS</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -1194,14 +1196,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[COLOR orange][B] FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/PNGkSmp/sub-cat-crimedrama.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/1dvrSpm/crime-e-drama.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE CRIME E DRAMA ESTÃO AQUI</info>
 <genre>FILMES DE CRIME E DRAMA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange]LS-> FOGO CONTRA FOGO - 1995 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] FOGO CONTRA FOGO - 1995 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSkuWgF83aXDyvKxgIHCvcXVurj.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/s5GEd31RA3HYcbVZJsT7MR2d1Hs.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ToBJyqCrXu59wNQSP7hV1Y0TqJ6cfbnD/view</link>
@@ -1210,7 +1212,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O ÚLTIMO MATADOR - 1996 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O ÚLTIMO MATADOR - 1996 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvvkyFhZL0e93moccTET3nHo3iR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/lD1ukTu3oEHMC4lFMt7Xfj0QaQ1.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lraV5HtDXE0pUjX9d6-s7hVfDvIWExHf/view</link>
@@ -1219,7 +1221,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> FAROESTE CABOCLO - 2013 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] FAROESTE CABOCLO - 2013 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/1RuePqHp5mEeW2vDBG1LY3xiLSe.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2J7Iat58kTv00580vgQIzrLWP2Q.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ztVCNfajvFp85yCZw7VplKt1nYrvpCmt/view</link>
@@ -1228,7 +1230,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ESTRADA SEM LEI - 2019 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] ESTRADA SEM LEI - 2019 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/uLX34Djo5JsszLtKUojD3bNrHZu.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1MUokmbc3qGXj69R8DyM6etF46Q.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tXvEoX5Qw2lJWeosbJHSVFWJWsEOHSQX/view</link>
@@ -1237,7 +1239,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> ENTRE FACAS E SEGREDOS - 2019 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] ENTRE FACAS E SEGREDOS - 2019 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/AbRYlvwAKHs0YuyNO6NX9ofq4l6.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/102FJy2FRwzsiQOuFqi219d0w6kALlPU2/view</link>
@@ -1251,14 +1253,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[COLOR orange][B] FILMES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/HncMJy0/ficaoefantasia-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<thumbnail>https://i.ibb.co/GvLhKH6/ficcao-Efantasia.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE FICÇÃO E FANTASIA ESTÃO AQUI</info>
 <genre>FICÇÃO E FANTASIA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange]LS-> EU, ROBÔ - 2004 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] EU, ROBÔ - 2004 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaFZyOHeDzB0k9sbQ7LNUOd9RGs.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3N0XNfknTOpGwYadltyDSszCZmZ.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CTyrPZB1Mhwb3s5b7oYazIFNJW1s_COR/view</link>
@@ -1267,7 +1269,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]JOHN CARTER - ENTRE DOIS MUNDOS - 2012 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange]JOHN CARTER - ENTRE DOIS MUNDOS - 2012 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/34raAO5zu72ISSjqHaQJfRryuWM.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qFrJlsJaKr0nIbyRQbb6bdTnkHZ.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rQPgrknf75mxI3xT0dCMshfP0KLAqxu9/view</link>
@@ -1276,7 +1278,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O VINGADOR DO FUTURO - 1990 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O VINGADOR DO FUTURO - 1990 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSGvijJ539ppQwNScOKHJZNMZgv.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/axrH8P9TzSOBpTOXvzZOzn8CZeZ.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1buBSoaokuHhwvgqu0DPM4OhN3keC2K3-/view</link>
@@ -1284,7 +1286,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>FICÇÃO</genre>
 </item>
 
-<title>[COLOR orange]LS-> 2019 - O ANO DA EXTINÇÃO - 2009 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] 2019 - O ANO DA EXTINÇÃO - 2009 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLgkMhsGDOvlLrkC8HFNOLhE0wL.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/2oJboZn3EXCO9ka9DiNyoFp65SR.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wjCWVku5M_9w3eJl_KW4vMHqAZFe1dOB/view</link>
@@ -1293,7 +1295,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> NO LIMITE DO AMANHÃ - 2014 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] NO LIMITE DO AMANHÃ - 2014 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/7S6cjpi1p4t5rbpJMrs4QnK9yUT.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7mgKeg18Qml5nJQa56RBZO7dIu0.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12A6bUI3vNLAliGSO5kMqaM6HYNv-xc2s/view</link>
@@ -1302,7 +1304,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O DIA DEPOIS DE AMANHÂ - 2004 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O DIA DEPOIS DE AMANHÂ - 2004 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2vlHR0AJzwJ9kj4vzLZmNCSF7b.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fXJhA3pjLMDkHPgZ2GVhRDXA5M3.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pCdr1oxErdm7DlP9FgfD8JuaK0VZSW4f/view</link>
@@ -1311,7 +1313,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> SPECTRAL - 2016 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] SPECTRAL - 2016 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b38TATFWkb3TRNUIPcvGiErRzrw.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/anIAcwt61r1HLfiQnSeAv1mbfVH.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W4L3j3rl1YMjrNoFUHW3EpnIYiaUG2Hn/view</link>
@@ -1323,16 +1325,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR orange][B] FILMES DE SUSPENSE E TERROR[/B][/COLOR]</name>
+<name>[COLOR orange][B] https://i.ibb.co/KwfZ4G6/Suspense-Eterror.png[/B][/COLOR]</name>
 <thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS MELHORES FILMES DE SUSPENSE E TERROR ESTÃO AQUI</info>
 <genre>FILMES DE SUSPENSE E TERROR</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange]NAVIO FANTASMA - 2002 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]NAVIO FANTASMA - 2002 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RCO5KVKeFqFRymodSGc12v1fB5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/gc4MW8gPXFNbVJIZBpIsYlmQaxB.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Edt1C1baGRUjbWV6Y0u5Vz9P2_nHrkHj/view</link>
@@ -1341,7 +1343,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]1408 - 2007 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]1408 - 2007 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4onX7UF2MPUgIpkUerLC3dpVfNZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uaDyzxiCCSEr5Re3d4rGavJV5M4.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D8zeQ4s2rZw5IUH4m_kuMz-DDpT5fmni/view</link>
@@ -1350,7 +1352,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]OS OUTROS - 2001 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange]OS OUTROS - 2001 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/knF4tpkM10zQLR7tEvM7ZlP4ZFA.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tVAU8RXarMKqHSYzZ5CCH1jzsVQ.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PWUlJhjfQHJ9dCtHKWNqJTxHJWH1ULjB/view</link>
@@ -1359,7 +1361,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]A COLINA ESCARLATE - 2015 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]A COLINA ESCARLATE - 2015 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tps80Vd8Bwj03UlUgJSo9lwJNS1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/t8wLhfVbfCHbirEgDPQhiuLcFGp.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A09qrYpJM3Go3JR8OqpnKMT4mhqq5C0c/view</link>
@@ -1368,7 +1370,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> O CÓDIGO DA VINCI - 2006 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange] O CÓDIGO DA VINCI - 2006 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHjS8fyVWuMfRvRR3Nm4QpOWTn7.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hcAMO4LF6G2hvsTpNgmY1kFj3jJ.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zLiZKAy3Hi8JIJrC-vGLe8e0EjZJec2z/view</link>
@@ -1377,7 +1379,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]ANJOS E DEMÔNIOS - 2009 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]ANJOS E DEMÔNIOS - 2009 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP5BkGRl500KwfYhKkJKn6fRoeR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wjrTJhDQEqmmaEfbM2Qo8ibzvSS.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-oFKmrEKi63gusWWbR9G2O4_o_Whj_Il/view</link>
@@ -1386,7 +1388,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]INFERNO - 2016 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]INFERNO - 2016 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfcBQtKBYTa9qh7NTBeuVQ6Tkkc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/anmLLbDx9d98NMZRyVUtxwJR6ab.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x3NAjveRJQRoDWtvebAeGW7isckgKDdy/view</link>
@@ -1395,7 +1397,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]DURANTE A TORMENTA - 2018 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange]DURANTE A TORMENTA - 2018 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://pbs.twimg.com/media/Dmv4DfAXcAAkWti.jpg:large</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/t73zWIqUeKxBmzFPO0m4OD6RWk7.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11xG-ncMRBGieWHRNFBXKlquAsdh2oIsP/view</link>
@@ -1404,7 +1406,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]ROUBANDO VIDAS - 2004 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange]ROUBANDO VIDAS - 2004 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUXqqWuAhoncZYJlhDBzrwVRd27.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ifmNM1dhYR5Uy5Wi0GxDdCeA2Hx.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PLxHsxjfTcGxY3i-glzg2nAbrzz0f0wj/view</link>
@@ -1413,7 +1415,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]DEJA VU - 2006 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange]DEJA VU - 2006 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZVqrKTm0Pq0aTVxxJVTgoEUco8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/94Mb6dnCtmkqPmjFGucghp7UXda.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10aW0DPnOcWinH0FYqfmCO4XZploMena1/view</link>
@@ -1422,7 +1424,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]O HOMEM SEM SOMBRA - 2000 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange]O HOMEM SEM SOMBRA - 2000 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5P8M6DDVP7ns2KhzGzLPAHGJEsD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xYqtO0XieH3BpMdQET2QuZFBQJ6.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SStsBS00OzCghqDFCEiGrEZCuf7WwYaM/view</link>
@@ -1431,7 +1433,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]TERROR NA ANTARTIDA - 2009 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]TERROR NA ANTARTIDA - 2009 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xl57WNR0mKMAJuT7dvSzCN55dEc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iQAq5rbOvkJRmoH37cai44xaCvW.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aTaty-9MxGWRdENJYb__2UaDuTqsVOrY/view</link>
@@ -1440,7 +1442,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]VOZES DO ALÉM - 2005 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]VOZES DO ALÉM - 2005 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/z3BZu6D6FDeHfacnaox8IPrydXl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kiOnPmm5P9hhvC6bhYvqvpgZGp.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AQrAfXaeLIAe1qkFpCSjtPp2HYuaRbCD/view</link>
@@ -1449,7 +1451,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]DIA DOS NAMORADOS MACABRO - 1981 - 720 - DUB[/COLOR]</title>
+<title>[COLOR orange]DIA DOS NAMORADOS MACABRO - 1981 - 720 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/kl3mewFceFtYIavvGts2atzB0e0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1y2hvJJH89k2nTgvynNMPQdnHNA.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mc6z7KLgFCHWg7Aq62J9YLBKn2V1kqFQ/view</link>
@@ -1458,7 +1460,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]O PACTO DOS LOBOS - 2001 - SD - DUB[/COLOR]</title>
+<title>[COLOR orange]O PACTO DOS LOBOS - 2001 - SD - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L1ESiQPqkMqfxzeqxWyg1yPHsg.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kobkt8yR26GdQ8vndCpwJQeEyaf.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lDtUjp9Ita_Hnyx6P5BhTcO6aP7t7vIB/view</link>
@@ -1467,7 +1469,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR orange]LS-> A LENDA DO CAVALEIRO SEM CABEÇA - 1999 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR orange] A LENDA DO CAVALEIRO SEM CABEÇA - 1999 - 1080 - Dublado[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGzMdNN5315TBsgpW7GZXaS4iJx.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dVr09swsYuWMf4kjBYAIuZ0ov6u.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qNxZSNnS5iBGzvaJHoAMA9B-_3k47h8-/view</link>
@@ -1476,4 +1478,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
