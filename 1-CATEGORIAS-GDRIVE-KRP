@@ -1,9 +1,10 @@
 <channels>
 <channel>
-<name>[COLOR blue][B] CATEGORIAS[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>ESCOLHA A CATEGORIAS DE CONTEÚDO PARA ASSISTIR</info>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<externallink>NOLINK</externallink>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -23,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] SÉRIES NO G DRIVE[/B][/COLOR]</name>
+<name>[COLOR lime][B] SÉRIES ANTIGAS NO G DRIVE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/1-GDRIVE-KPT/main/2-SEL-SERIESANTIGAS-KRP</externallink>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -33,6 +34,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+
+<name>[COLOR lime][B] SÉRIES NO G DRIVE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-GDRIVE-KPT/main/2-SEL-SERIESANTIGAS-KRP</externallink>
+<thumbnail>http://bit.do/cat-series</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SUA MARATONA ESTA AQUI </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <name>[COLOR lime][B] NOVELAS NO G DRIVE[/B][/COLOR]</name>
 <externallink>https://</externallink>
