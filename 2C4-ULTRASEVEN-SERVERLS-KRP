@@ -1,5 +1,5 @@
 <item>	
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO2[/B][/COLOR]</title>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>	
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>	
@@ -7,6 +7,18 @@
 </item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
+<item>	
+<title>[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Ultraseven[/COLOR][/B]</title>	
+<link>plugin://plugin.video.youtube/play/?video_id=c_hhTGb3Qig</link>	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1AZiI4FJlGmAcp5lvLMZk16xaU4.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/cdxYNchPMnRn1QtEvlJcEd9Lbav.jpg</fanart>
+<info>Um homem misterioso, mas amigável, Dan se junta ao Esquadrão Ultra como sexto membro. Desconhecido para eles ou qualquer outra pessoa, ele salva a Terra de invasões alienígenas como o Agente 340, batizado pelo Esquadrão como seu "7° membro honorário", Ultra Seven.</info>
+<genre>TOKUSATSU</genre>  
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+		
 <item>
 <title>[COLOR white][B]Ultraseven - EP01 - 1967 - DUB[/B][/COLOR]</title>
 <link>https://content.jwplatform.com/videos/7cD9yDvL-MXVHPTf1.mp4</link>
