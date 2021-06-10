@@ -36,6 +36,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[B][COLOR white]Ark II[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLXXAFlIAf9WKVs8OljS9ALVD3h8ojDveG/?page=0</jsonrpc>
+<thumbnail>http://photos1.blogger.com/blogger/6809/2795/1600/ArkII.jpg</thumbnail>
+<fanart>http://infantv.com.br/infantv/wp-content/uploads/2016/07/ark2_ft.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
 <title>[B][COLOR white]As Aventuras do Dr. Doolittle[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLfouBDeJju2ASHxxV43Z0tel3zD9ba8Iv/?page=0</jsonrpc>
