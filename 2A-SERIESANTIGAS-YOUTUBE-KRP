@@ -18,6 +18,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[B][COLOR white]Combat - 1962[/B][/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yDihEn4XzY4YbmdAfyb-5oL/?page=0</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/R08RKtjdJTs/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[B][COLOR white]Thunderbirds em Ação[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLx0YwMUy9fuClyDy65FU7XFRbVgU8_BVR/?page=0</jsonrpc>
